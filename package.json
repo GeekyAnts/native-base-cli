@@ -1,6 +1,6 @@
 {
   "name": "native-base-cli",
-  "version": "0.0.0",
+  "version": "1.0.0",
   "description": "A simple react-native boilerplate generator with native-base and react-navigation.",
   "main": "index.js",
   "scripts": {

@@ -2,7 +2,7 @@
 A basic cli that generates a simple 3 page application with [react-native](https://github.com/facebook/react-native),
 [native-base](https://github.com/GeekyAnts/NativeBase) and [react-navigation](https://github.com/react-community/react-navigation).
 
-![Demo](https://github.com/GeekyAnts/native-base-cli/screenshots/NB-CLI.gif)
+![Demo](https://github.com/GeekyAnts/native-base-cli/raw/master/screenshots/NB-CLI.gif)
 
 ## Installation:
 

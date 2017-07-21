@@ -10,6 +10,10 @@ A basic cli that generates a simple 3 page application with [react-native](https
 $ npm install -g native-base-cli
 $ native-base init
 ```
+## Note:
+
+Make sure your ssh is added to your github account as this clones the boilerplate repo to your system.
+
 ## Todo:
 
 * Add redux/mobx.

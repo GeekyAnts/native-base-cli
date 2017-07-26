@@ -1,22 +1,22 @@
 {
-	"name": "native-base-cli",
-	"version": "1.0.0",
-	"description": "A simple react-native boilerplate generator with native-base and react-navigation.",
-	"main": "index.js",
-	"repository": {
-		"type": "git",
-		"url": "git+ssh://git@github.com/GeekyAnts/native-base-cli.git"
-	},
-	"author": "GeekyAnts",
-	"license": "MIT",
-	"bugs": {
-		"url": "https://github.com/GeekyAnts/native-base-cli/issues"
-	},
-	"bin": {
-		"native-base": "index.js"
-	},
-	"homepage": "https://github.com/GeekyAnts/native-base-cli#readme",
-	"dependencies": {
-		"fs-extra": "^3.0.1"
-	}
+  "name": "native-base-cli",
+  "version": "1.1.0",
+  "description": "A simple react-native boilerplate generator with native-base and react-navigation.",
+  "main": "index.js",
+  "repository": {
+    "type": "git",
+    "url": "git+ssh://git@github.com/GeekyAnts/native-base-cli.git"
+  },
+  "author": "GeekyAnts",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/GeekyAnts/native-base-cli/issues"
+  },
+  "bin": {
+    "native-base": "index.js"
+  },
+  "homepage": "https://github.com/GeekyAnts/native-base-cli#readme",
+  "dependencies": {
+    "fs-extra": "^3.0.1"
+  }
 }

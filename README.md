@@ -28,6 +28,5 @@ Make sure your ssh is added to your github account as this clones the boilerplat
 ## Todo:
 
 * Add redux/mobx.
-* Add expo support.
 * Add TabNavigator example.
 

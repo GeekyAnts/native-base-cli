@@ -1,4 +1,5 @@
 var spawnSync = require("child_process").spawnSync;
+var execSync = require("child_process").execSync;
 var path = require("path");
 
 module.exports = function initExpo() {

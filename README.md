@@ -1,3 +1,7 @@
+# Note: This is no longer maintained
+
+## Try out [ReactNativeSeed.com](https://reactnativeseed.com/)
+
 # native-base-cli
 A basic cli that generates a simple 3 page application with [react-native](https://github.com/facebook/react-native),
 [native-base](https://github.com/GeekyAnts/NativeBase) and [react-navigation](https://github.com/react-community/react-navigation).
